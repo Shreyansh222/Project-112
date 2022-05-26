@@ -1,0 +1,34 @@
+body{
+background-color: aqua;
+font-style: italic;
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+color: grey;
+}
+.emotion_name
+{
+font-size: 40px;
+}
+.emoji
+{
+font-size:48px;
+}
+.heading{
+font-size: 18px;
+border-radius: 10px;
+letter-spacing: 10px;
+}
+label{
+font-size: 14px;
+color: limegreen;
+padding: 6px;
+border-radius: 10px;
+background-color: white;
+}
+#camera , #result
+{
+border: 2px dashed black;
+width: 350px;
+height: 300px; 
+}
